@@ -250,3 +250,5 @@ Deploying to **Streamlit Community Cloud** is straightforward:
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+#   f i t n e s s - n u t r i t i o n - c o a c h  
+ 
